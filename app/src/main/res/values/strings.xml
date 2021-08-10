@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ResumoGeral</string>
+    <string name="signIn">Entrar</string>
+    <string name="email">E-mail</string>
+    <string name="password">Senha</string>
+    <string name="invalid_user">Email ou senha invalidos</string>
+    <string name="invalid_request">Request deu falha</string>
+</resources>
